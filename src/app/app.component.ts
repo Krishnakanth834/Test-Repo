@@ -12,3 +12,4 @@ export class AppComponent {
 // This is a master branch commit
 // Changed at remote
 //Changed at remote 2
+// how is it
