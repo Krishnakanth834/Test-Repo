@@ -8,7 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
 }
-// This is krisjhnakanth latest changes. 
-// This is a master branch commit
-// Changed at remote
-//Changed at remote 2
+// This is krisjhnakanth latest changes.Changed in the git repository. Second time
